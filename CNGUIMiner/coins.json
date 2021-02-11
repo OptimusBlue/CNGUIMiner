@@ -1,0 +1,35 @@
+﻿{
+
+  "Coins": [
+    {
+        "Name": "Plenteum (PLE)",
+        "WebUrl": "http://ple.optimusblue.com",
+        "PoolUrl": "ple.optimusblue.com",
+        "PoolPort": "3333",
+        "Algo": "turtlecoin"
+
+    },
+    {
+        "Name": "Masari (MSR)",
+        "WebUrl": "http://msr.optimusblue.com",
+        "PoolUrl": "msr.optimusblue.com",
+        "PoolPort": "3333",
+        "Algo": "masari"
+    },
+    {
+        "Name": "Maze (MAZE)",
+        "WebUrl": "http://maze.optimusblue.com",
+        "PoolUrl": "maze.optimusblue.com",
+        "PoolPort": "3333",
+        "Algo": "monero7"
+    },
+    {
+        "Name": "MoX (MoX)",
+        "WebUrl": "http://mox.optimusblue.com",
+        "PoolUrl": "mox.optimusblue.com",
+        "PoolPort": "3333",
+        "Algo": "mox"
+    }
+  ],
+  "HelpText": "Help me!" //max 500 characters
+}
